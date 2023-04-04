@@ -105,7 +105,7 @@ local TopPanel = function(s)
       stretch = false,
       bg = beautiful.background.hue_800,
       fg = beautiful.fg_normal,
-      -- opacity = 0.1,
+      opacity = 0.1,
       struts = {
         top = dpi(32)
       }

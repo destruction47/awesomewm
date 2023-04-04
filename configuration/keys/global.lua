@@ -104,7 +104,7 @@ local globalKeys =
     {modkey},
     'l',
     function()
-      awful.spawn(apps.default.lock)
+      awful.spawn('i3lock-fancy -g')
     end,
     {description = 'Lock the screen', group = 'awesome'}
   ),

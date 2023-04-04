@@ -19,7 +19,7 @@ return {
     editor = 'subl', -- gui text editor
     social = 'discord',
     game = rofi_command,
-    files = 'thunar',
+    files = 'nautilus',
     music = rofi_command 
   },
   -- List of apps to start once on start-up
